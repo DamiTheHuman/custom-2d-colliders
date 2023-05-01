@@ -1,0 +1,18 @@
+{
+  "name": "com.dami-script.object-swatch",
+  "version": "0.0.1",
+  "displayName": "Custom Collider 2D",
+  "description": "An extension of This is project [GuyQuad](https://github.com/GuyQuad)'s",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Unity",
+    "Colliders"
+  ],
+  "author": {
+    "name": "Dami Script",
+    "email": "dami.script@outlook.com",
+    "url": "https://github.com/damiscript"
+  },
+  "type": "tool"
+}
