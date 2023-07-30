@@ -1,8 +1,8 @@
 {
-    "name": "dami-script.custom-collider-2d.editor",
+    "name": "dami-the-human.custom-collider-2d.editor",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": ["Editor"],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
