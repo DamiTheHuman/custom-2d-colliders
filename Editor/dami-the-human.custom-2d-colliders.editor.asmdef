@@ -1,5 +1,5 @@
 {
-    "name": "dami-the-human.custom-collider-2d.editor",
+    "name": "dami-the-human.custom-2d-colliders.editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": ["Editor"],
